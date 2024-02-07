@@ -16,13 +16,87 @@
 
 
 
+/* All below is styles for Borscht */
+
+#page-borscht {
+    background-color: black;
+    color: brown;
+}
+
+#page-borscht {
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#page-borscht .description {
+    color: brown;
+
+}
+
+#page-borscht ol {
+    color: rgb(248, 51, 162);
+}
+
+#page-borscht h4 {
+    color: rgb(248, 51, 162);
+}
+
+#page-borscht .description {
+    text-align: center;
+}
+
+
+
+
+
+
+
+/* All below is styles for Pacnake */
+
+#page-pancake {
+    background-color: rgb(243, 242, 241);
+}
+
+#page-pancake .description {
+    text-align: center;
+}
+
+#page-pancake ul {
+    color: rgb(226, 156, 226);
+}
+
+
+
+
+
+
 /* All below is styles for Salad */
 
 #page-salad {
     background-color: bisque;
 }
 
-#page-borscht {
-    background-color: black;
-    color: brown;
+#page-salad .header1,
+#page-salad .description {
+    text-align: center;
+}
+
+#page-salad p,
+#page-salad li {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+#page-salad .header1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+
+/* All below is styles for all*/
+
+#page-borscht .header2,
+#page-pancake .header2,
+#page-salad .header2 {
+    text-align: center;
+    font-family: fantasy;
 }
