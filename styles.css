@@ -1,15 +1,28 @@
-* {
-    background-color: rgb(246, 232, 253);
-}
 
-.header {
-    color: rgb(95, 66, 30);
+#main-page {
+ background-color: rgb(246, 232, 253);
 }
-
-a {
+    
+#main-page.header {
+    color: rgb(95, 66, 30);   
+}
+#main-page.a {
     color: rgb(82, 56, 16);
 }
 
-li {
+#main-page.li {
     color: rgb(167, 39, 60);
+}
+
+
+
+/* All below is styles for Salad */
+
+#page-salad {
+    background-color: bisque;
+}
+
+#page-borscht {
+    background-color: black;
+    color: brown;
 }
