@@ -14,7 +14,11 @@
     color: rgb(167, 39, 60);
 }
 
-
+#main-page img {
+    max-width: 100%;
+    max-height: auto;
+    margin: 0px;
+}
 
 /* All below is styles for Borscht */
 
