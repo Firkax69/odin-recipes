@@ -1,0 +1,17 @@
+.header2 {
+    text-align: center;
+    font-family: fantasy;
+}
+
+* {
+    background-color: rgb(243, 242, 241);
+}
+
+.description {
+    text-align: center;
+}
+
+ul {
+    color: rgb(226, 156, 226);
+}
+
